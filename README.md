@@ -1,5 +1,84 @@
 # SS25 Sabotage
 
+## Presentation Schedule
+Key Dates & Deadlines Overview
+~ ~Exhibition Space Request Deadline: Sunday, July 6th, 8:00 PM~ ~
+
+~ ~Return Missing Shelves Deadline: Tuesday, July 8th~ ~
+
+Room 402 Clearing Deadline: Monday, July 11th, 4 pm (sharp)
+-- THIS IS A MANDATORY GROUP EFFORT from 2 p.m, no exceptions --
+
+Final Presentations: Tuesday, July 15th, meet at 9:30, starting at 10:00 AM
+-- Be on time (9.30)! Doors will be CLOSED from 9:55. Account for potential hickups with trains, busses, your bike, keys, doctors appointments, wohnungsbesichtigung, job shifts, etc. ;-) --
+
+Mappenstruktur Submission Deadline: Monday, July 14th, 9:00 PM (sharp)
+
+Room 403 Clearing Deadline: Wednesday, July 16th, 12:00 PM (noon)
+-- THIS IS A MANDATORY GROUP EFFORT after the presentations, no exceptions --
+
+Course Parcours (Project Showcase): Wednesday, July 16th, 3:00 PM (TBD)
+
+Rundgang supervision shifts over the weekend. we will provide a link soon!
+
+Final PDF Documentation Deadline: Friday, July 25th
+
+## Week 7 - June 2nd
+
+Hey all,
+We hope you had an awesome two days with Lena and you learned a lot about what to do with code, rather than just looking at and reading it :-) We also saw a couple projects making great progress! We are excited to see what you come up with over the next two weeks.
+Next week, we will start the two-stage process of deciding on a final concept to finalize from 17th of June until the week before Rundgang. 
+Next week Monday will be a Holiday, so we have only Tuesday together:
+ 
+
+### 5x5x5x5x5 
+
+
+- Present five concepts on five slides (of course you can also use prototypes, printouts or whatever you like instead of slides).
+- Concepts need to be adequately visualized or prototyped (no gen AI, no doodles, no generic renderings or moodboards).
+- Concepts are more than ideas: How can it look, how does it work, what is your precise intent, what are the ups and downs?
+- At least two fundamentally different directions within those five concepts.
+Rehearse!!! Five minutes max, make every word count.
+- Present not to impress, but for receiving valuable feedback: Open questions, doubts, etc. are welcome and useful. If you like, present the pros and cons of each concept.
+ 
+![alt text](image-1.png)
+
+
+We will stay in class after the presentations and feedback and potentially share some snacks and drinks. Please keep us in the loop with your plans (- as we won’t see each other on Monday, please send us a note on what you’re planning. We will donate some drinks.).
+ 
+The week after, we will have a public final concept presentation, together with Isabel and Paula and a couple other guests. We will brief you on the specific requirements in time.
+We expect you to thoroughly evaluate the different paths your projects could take – this is an important step in your process! We love the directions of your projects and have no doubt you will knock it out of the park. 
+
+## Week 6 - May 26th
+
+Hey everybody,
+we hope you enjoyed getting external feedback and some new perspectives on your projects. 
+We will welcome Lena Weber for next weeks coding workshop. Attendance and active participation is mandatory.
+It is extremely tedious teaching coding workshops with spotty attendance, so please make sure to be on time.
+We start at 10 sharp - not 10:15 ;-)! Please be also aware that Lena will give a tour through her work and approach on Tuesday at 4 p.m. for which attendance is also mandatory! 
+After last weeks presentations, we are confident that you are well-prepared to get started on your concepts.
+The week will be reserved for the workshop, no additional inputs will be offered. We will offer on-demand consultations on Monday afternoon. 
+
+As you asked - here is a preliminary overview of this semesters schedule:
+
+### April
+- Kickoff and Research
+
+### May
+- 19th End of Research and Concept Kick-Off with Threads&Tits
+
+### June
+- 10th to 17th Concept Presentations
+  - Execution Phase Kick Off
+
+### July
+- 14th Final Presentations
+- 15th Photo Tutorial
+- 17th Documentation Upload (web version) and Rundgang Rehearsal
+- 31st PDF Documentation.
+
+
+
 ## Week 4 - May 12th
 
 Hi all,
@@ -10,7 +89,7 @@ A couple of important notes for the sessions on Monday and Tuesday:
 
 -	Attendance: Please make sure to attend and be on time for class. Some of you have already reached the maximum number of unexcused absences. Unfortunately, we are required to factor this into your final evaluation.
 
-- Short Presentations: Please organize the short presentations scheduled for Monday. We’re aiming to see at least six presentations. You’re welcome to use the input we’ve already provided or develop your own concepts. Don’t worry about making a perfect presentation — what matters most is engaging with the topic and reflecting on your position within the design field.  Coordinate with each other to ensure the topics are distributed well. Multiple presentations on the same topic are fine as long as they explore different perspectives.
+- Short Presentations: Please organize the short presentations scheduled for Monday. We’re aiming to see at least six presentations. You’re welcome to use the input we’ve already provided or develop your own concepts. Don’t worry about making a perfect presentation — what matters most is engaging with the topic and reflecting on your position within the design field. Coordinate with each other to ensure the topics are distributed well. Multiple presentations on the same topic are fine as long as they explore different perspectives.
 
 ## TUESDAY
 We’ll continue with group discussions and 1-on-1 talks about your project outlines and directions.
